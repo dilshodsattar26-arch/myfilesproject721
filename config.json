@@ -1,0 +1,8 @@
+{
+    "name": "datamanager-service",
+    "version": "1.0.721",
+    "private": false,
+    "environment": "production",
+    "build_id": 449,
+    "allow_public_access": true
+}
